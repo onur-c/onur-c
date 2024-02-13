@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Çelik.</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **Eventer.**
+- 🔭 I’m currently working on ([Eventer](https://github.com/onur-c/eventer)) 
 
 - 🌱 I’m currently learning **TypeScript, Node.js, GraphQL.**
 
