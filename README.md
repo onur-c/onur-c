@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Node.js, GraphQL.**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at [Work in progress](https://portfolio-onur-c.vercel.app/))
 
 - 💬 Ask me about **React, NextJS, Tailwind.**
 
