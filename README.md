@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Çelik.</h1>
-<h3 align="center">A passionate web developer from Turkey.</h3>
+<h3 align="center">A passionate web developer/frontend engineer from Turkey.</h3>
 
 - 🔭 I’m currently working on [onui](https://onui-component-lib.vercel.app/) ([Repo](https://github.com/onur-c/onui-component-lib)) 
 
