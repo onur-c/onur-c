@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [onui](https://onui-component-lib.vercel.app/) ([Repo](https://github.com/onur-c/onui-component-lib)) 
 
 - 🌱 I’m currently learning **TypeScript, Node.js, GraphQL.**
-  - Redux Toolkit, Tanstack Query
+  - Redux Toolkit, Zustand, Tanstack Query,
 
 - 👨‍💻 All of my projects are available at [Work in progress](https://portfolio-onur-c.vercel.app/)
 
